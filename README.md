@@ -1,13 +1,13 @@
-### About me
+### About me [(LinkedIn)](https://www.linkedin.com/in/jonathancarverhill/ "LinkedIn")
 
-#### I see myself as a detail-oriented thinker and stand for honesty, respect and excellence. I embrace challenges and believe only challenges can lead to major breakthroughs. I am always seeking for opportunities that will allow me to achieve my goals and I am passionate about leveraging data, statistical models, and machine learning to extract value to create tangible impact to the wider community.
+I see myself as a detail-oriented thinker and stand for honesty, respect and excellence. I embrace challenges and believe only challenges can lead to major breakthroughs. I am always seeking for opportunities that will allow me to achieve my goals and I am passionate about leveraging data, statistical models, and machine learning to extract value to create tangible impact to the wider community.
 
 ### Current 💼
-* Innovation & Data (Advanced Analytics) Associate @ PwC
+* Innovation & Data (Advanced Analytics) Associate at PwC
 
 ### Education 🎓
-* MSc Financial Technology @ Imperial College Business School
-* BEng Electrical & Electronics Engineering @ University of Surrey
+* MSc Financial Technology at Imperial College Business School
+* BEng Electrical & Electronics Engineering at University of Surrey
 
 ### Interest 👨‍💻
 * Programming and technology implementation for financial applications
