@@ -1,10 +1,19 @@
 ### About me
+
 #### I see myself as a detail-oriented thinker and stand for honesty, respect and excellence. I embrace challenges and believe only challenges can lead to major breakthroughs. I am always seeking for opportunities that will allow me to achieve my goals and I am passionate about leveraging data, statistical models, and machine learning to extract value to create tangible impact to the wider community.
-### Current 💼: Innovation & Data (DA3 / Advanced Analytics) Associate @ PwC
-### Education 🎓: MSc Financial Technology @ Imperial College Business School
-###               BEng Electrical & Electronics Engineering @ University of Surrey
-### Interest 👨‍💻: Programming and technology implementation for financial applications
-### Location 📍: London, UK
+
+### Current 💼
+* Innovation & Data (Advanced Analytics) Associate @ PwC
+
+### Education 🎓
+* MSc Financial Technology @ Imperial College Business School
+* BEng Electrical & Electronics Engineering @ University of Surrey
+
+### Interest 👨‍💻
+* Programming and technology implementation for financial applications
+
+### Location 📍
+* London, UK
 
 <!--
 **jona9877/jona9877** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
