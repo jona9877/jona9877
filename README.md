@@ -1,6 +1,8 @@
 ### About me [(LinkedIn)](https://www.linkedin.com/in/jonathancarverhill/ "LinkedIn")
 
-I see myself as a detail-oriented thinker and stand for honesty, respect and excellence. I embrace challenges and believe only challenges can lead to major breakthroughs. I am always seeking for opportunities that will allow me to achieve my goals and I am passionate about leveraging data, statistical models, and machine learning to extract value to create tangible impact to the wider community.
+I am currently a Graduate Associate in the Innovation & Data team at PwC, specializing in Digital Audit. With a Master of Science degree in Financial Technology from Imperial College Business School, I have honed my expertise in programming and technology implementation for financial applications. My passion lies in harnessing the power of data, statistical models, and machine learning to drive tangible impact within the broader community.
+
+As a detail-oriented thinker, I prioritize honesty, respect, and excellence in all aspects of my work. I thrive on challenges, recognizing that they often pave the way for significant breakthroughs. Continually seeking opportunities that align with my goals, I am dedicated to making a meaningful difference in the wider community.
 
 ### Current 💼
 * Innovation & Data (Advanced Analytics) Associate at PwC
